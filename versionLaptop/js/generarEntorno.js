@@ -49,12 +49,12 @@ document.addEventListener
                     let rutaDeimagen="";
                     if(element[i]===0)
                     {
-                        rutaDeimagen="./media/imagenes/entorno/sueloArido.jpg"
+                        rutaDeimagen="./media/imagenes/entorno/sueloArido.JPG"
                         idDelaImagen="suelo";
                     }
                     else if(element[i]===1)
                     {
-                        rutaDeimagen="./media/imagenes/entorno/sueloSelvatico.jpg"
+                        rutaDeimagen="./media/imagenes/entorno/sueloSelvatico.JPG"
                         idDelaImagen="obstaculo";
                     }
                     else if(element[i]===2)
